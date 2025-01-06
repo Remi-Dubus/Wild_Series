@@ -1,5 +1,5 @@
 export type programsType = {
-  id: number;
+  id?: number;
   title: string;
   synopsis: string;
   poster: string;
